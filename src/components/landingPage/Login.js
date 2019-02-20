@@ -70,7 +70,8 @@ export default class Login extends Component {
             Log in
           </button>
           <p className="mt-3">
-            Don't have an account? <Link to="/signup">Sign up for free</Link>
+            Don't have an account yet?
+            <Link to="/signup">Sign up for free</Link>
           </p>
         </form>
       </div>
